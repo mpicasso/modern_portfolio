@@ -10,7 +10,7 @@
   "author": "Mutasim Billah",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^5.0.0",
     "node-sass": "^4.13.1"
   }
 }
